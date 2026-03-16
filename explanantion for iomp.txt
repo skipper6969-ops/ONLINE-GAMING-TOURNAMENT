@@ -1,0 +1,19 @@
+Explanation for architecture(super simple)
+
+Stock API → gives real-time prices
+Backend (Python) → processes and analyzes data
+Database → stores historical stock data
+Alert Engine → triggers price alerts
+Frontend Dashboard → shows charts and insights.
+
+Basically user can (UML Diagram):
+
+View live stock prices
+Select symbols (AAPL, TSLA, etc.)
+Set price alerts
+View dashboard charts
+See market sentiment
+
+
+
+
